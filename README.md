@@ -1,5 +1,5 @@
 # freelancesite
-This repo, as you might hve inferred from my incredably creative name, is a website that I made for freelance work!
+This repo, as you might have inferred from my incredably creative name, is a website that I made for freelance work!
 
 It also was a good excuse to practice/learn more about the Vue web framework. It's just meant to act as as simple landing page for my freelancing services. The site is built with the Vue web framework, and is hosted on AWS using s3 and cloudfront.
 
